@@ -1,0 +1,29 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Optional build artifacts (future EXE builds)
+dist/
+build/
+out/
+
+# Node/Electron (future expansion safe)
+node_modules/
+
+# System restore / cache
+$RECYCLE.BIN/
+
+# Git metadata backups
+*.orig
